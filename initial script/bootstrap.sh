@@ -49,6 +49,7 @@ cat >>/etc/hosts<<EOF
 10.10.12.4	zabbix.ops.raindrop.best    zabbix
 10.10.13.4  jump.ops.raindrop.best      jump
 10.10.14.4  elk.ops.raindrop.best       elk
+10.10.15.4  dock.ops.raindrop.best	dock
 EOF
 
 #Restart VM
